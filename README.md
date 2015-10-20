@@ -1,6 +1,6 @@
-# Crochet Pattern Generator
+<h1>Crochet Pattern Generator</h1>
 
-This program takes an image as an input and is able to map that image to a grid so that someone can use it to follow as a pattern for corcheting
+<p>This program takes an image as an input and is able to map that image to a grid so that someone can use it to follow as a pattern for corcheting. The Matlab-Legacy folder contains a working Matlab srcipt for the pattern generator, but it is not a stable version of the code.</p>
 
 <h1>TO-DO:</h1>
 <p>
